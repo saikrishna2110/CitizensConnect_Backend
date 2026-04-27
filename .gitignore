@@ -1,0 +1,6 @@
+target/
+uploads/
+.metadata/
+backend-run*.log
+*.log
+
